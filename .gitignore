@@ -1,0 +1,26 @@
+# Gradle
+build/
+/.gradle/
+
+
+# Eclipse
+.classpath
+.project
+.externalToolBuilders/
+.metadata
+.settings
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+
+# Mac
+.DS_Store
+
+# gitignore
+test/
+gradle/

@@ -1,0 +1,2 @@
+GET localhost:8001/payment/get/31
+Content-Type: application/x-www-form-urlencoded
